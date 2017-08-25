@@ -2,119 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d7ea065-5bc6-4b51-b050-9baa71edd345" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/2847122258.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/2847122273.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/2847122282.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/2847122291.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/3584633308.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/MKTQ2_image_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/MKTQ2_image_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/MacBook_256_Silver_image_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/MacBook_256_Silver_image_01_sbaItiP.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/MacBook_256_Silver_image_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/MacBook_256_Silver_image_02_pa87BHx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/MacBook_256_Silver_image_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/MacBook_256_Silver_image_03_YNOY59Z.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/MacBook_256_Silver_image_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/MacBook_256_Silver_image_04_QRaQfPF.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/Space_Gray_image_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/Space_Gray_image_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/Space_Gray_image_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/a1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/bd1_1cr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/bd1_2cr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/bd1_3cr.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/bd2_1cr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/bd2_2cr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/bd2_3cr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/bd3_1cr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/bd3_2cr.jpg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/bd3_3cr.jpg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/iphone_7_black-image_02_eMhZq62.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/iphone_7_jet_black-image_01_U5CakOv.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/iphone_7_silver-image_01_3pHyPtA_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/iphone_7_silver-image_01_3pHyPtA_1_dFkaawt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/iphone_7_silver-image_01_3pHyPtA_1_dFkaawt_OongSRC.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/iphone_7_silver-image_01_3pHyPtA_1_s91XNZC.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/iphone_7_silver-image_02_63s6q7L.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/iphone_7_silver-image_02_63s6q7L_wZqvPbl.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/кобез лён1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/коляска 5.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/коляска 6.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/коляска1.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/коляска2.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/коляска3.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/коляска4.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_dev/img/bg_image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_dev/img/slider0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/bg_image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/img/slider0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/fairypresent.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppFairypresent/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppFairypresent/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppFairypresent/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppFairypresent/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppFairypresent/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppFairypresent/migrations/0002_auto_20170809_2347.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppFairypresent/migrations/0003_auto_20170815_0923.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppFairypresent/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppFairypresent/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppFairypresent/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppFairypresent/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppFairypresent/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fairypresent/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fairypresent/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fairypresent/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fairypresent/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orders/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orders/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orders/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orders/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orders/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orders/migrations/0002_auto_20170816_0741.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orders/migrations/0003_auto_20170816_0743.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orders/migrations/0004_auto_20170816_0759.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orders/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orders/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orders/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orders/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orders/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/migrations/0002_productimage_image.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/migrations/0003_product_price.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/migrations/0004_product_short_description.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/migrations/0005_productimage_is_main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/migrations/0006_auto_20170823_2104.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/media/products_images/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_dev/css/fairypresent.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_dev/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/css/fairypresent.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/static_prod/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fairypresent/fairypresent.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fairypresent/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/fairypresent/product_item.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/navbar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/products/product.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products/views.py" afterPath="$PROJECT_DIR$/products/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -161,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/products/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+            <state relative-caret-position="34">
+              <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -193,7 +82,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="455">
@@ -286,7 +175,6 @@
         <option value="$PROJECT_DIR$/static/static_prod/css/style.css" />
         <option value="$PROJECT_DIR$/templates/product_item.html" />
         <option value="$PROJECT_DIR$/templates/fairypresent/home.html" />
-        <option value="$PROJECT_DIR$/products/views.py" />
         <option value="$PROJECT_DIR$/templates/fairypresent/product_item.html" />
         <option value="$PROJECT_DIR$/products/urls.py" />
         <option value="$PROJECT_DIR$/templates/navbar.html" />
@@ -295,6 +183,7 @@
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/static/js/scripts.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/products/views.py" />
       </list>
     </option>
   </component>
@@ -789,6 +678,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
           <caret line="717" column="8" lean-forward="false" selection-start-line="717" selection-start-column="8" selection-end-line="717" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -920,16 +810,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/products/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -964,14 +844,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/products/product.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="57" column="76" lean-forward="false" selection-start-line="57" selection-start-column="69" selection-end-line="57" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -993,6 +865,24 @@
         <state relative-caret-position="455">
           <caret line="115" column="6" lean-forward="false" selection-start-line="115" selection-start-column="6" selection-end-line="115" selection-end-column="6" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/products/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="57" column="76" lean-forward="false" selection-start-line="57" selection-start-column="69" selection-end-line="57" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
